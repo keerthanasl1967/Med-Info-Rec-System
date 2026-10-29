@@ -1,0 +1,11 @@
+# Compiled Java class files
+target/
+*.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Database credentials (Keep your password private!)
+src/main/resources/db.properties
